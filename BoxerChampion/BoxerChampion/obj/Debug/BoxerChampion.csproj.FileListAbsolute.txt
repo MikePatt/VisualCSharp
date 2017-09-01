@@ -1,0 +1,9 @@
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\bin\Debug\BoxerChampion.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\bin\Debug\BoxerChampion.exe
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\bin\Debug\BoxerChampion.pdb
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.Form1.resources
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.exe
+c:\users\drago\documents\visual studio 2017\Projects\BoxerChampion\BoxerChampion\obj\Debug\BoxerChampion.pdb

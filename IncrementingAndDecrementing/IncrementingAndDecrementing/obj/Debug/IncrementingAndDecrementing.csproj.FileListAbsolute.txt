@@ -1,0 +1,6 @@
+c:\users\drago\documents\visual studio 2017\Projects\IncrementingAndDecrementing\IncrementingAndDecrementing\obj\Debug\IncrementingAndDecrementing.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\IncrementingAndDecrementing\IncrementingAndDecrementing\bin\Debug\IncrementingAndDecrementing.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\IncrementingAndDecrementing\IncrementingAndDecrementing\bin\Debug\IncrementingAndDecrementing.exe
+c:\users\drago\documents\visual studio 2017\Projects\IncrementingAndDecrementing\IncrementingAndDecrementing\bin\Debug\IncrementingAndDecrementing.pdb
+c:\users\drago\documents\visual studio 2017\Projects\IncrementingAndDecrementing\IncrementingAndDecrementing\obj\Debug\IncrementingAndDecrementing.exe
+c:\users\drago\documents\visual studio 2017\Projects\IncrementingAndDecrementing\IncrementingAndDecrementing\obj\Debug\IncrementingAndDecrementing.pdb

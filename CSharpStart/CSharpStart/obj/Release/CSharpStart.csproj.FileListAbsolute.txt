@@ -1,0 +1,9 @@
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\bin\Release\CSharpStart.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\bin\Release\CSharpStart.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\bin\Release\CSharpStart.pdb
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\obj\Release\CSharpStart.Form1.resources
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\obj\Release\CSharpStart.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\obj\Release\CSharpStart.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\obj\Release\CSharpStart.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpStart\CSharpStart\obj\Release\CSharpStart.pdb
+C:\Users\drago\Documents\Visual Studio 2017\Projects\CSharpStart\CSharpStart\obj\Release\CSharpStart.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\bin\Debug\WhileIfStatements.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\bin\Debug\WhileIfStatements.exe
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\bin\Debug\WhileIfStatements.pdb
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\obj\Debug\WhileIfStatements.Form1.resources
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\obj\Debug\WhileIfStatements.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\obj\Debug\WhileIfStatements.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\obj\Debug\WhileIfStatements.exe
+c:\users\drago\documents\visual studio 2017\Projects\WhileIfStatements\WhileIfStatements\obj\Debug\WhileIfStatements.pdb

@@ -1,0 +1,5 @@
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro2\CSharpIntro2\bin\Debug\CSharpIntro2.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro2\CSharpIntro2\bin\Debug\CSharpIntro2.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro2\CSharpIntro2\bin\Debug\CSharpIntro2.pdb
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro2\CSharpIntro2\obj\Debug\CSharpIntro2.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro2\CSharpIntro2\obj\Debug\CSharpIntro2.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpIntro2\CSharpIntro2\obj\Debug\CSharpIntro2.pdb

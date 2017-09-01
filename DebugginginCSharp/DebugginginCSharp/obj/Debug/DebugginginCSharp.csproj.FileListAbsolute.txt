@@ -1,0 +1,6 @@
+c:\users\drago\documents\visual studio 2017\Projects\DebugginginCSharp\DebugginginCSharp\bin\Debug\DebugginginCSharp.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\DebugginginCSharp\DebugginginCSharp\bin\Debug\DebugginginCSharp.exe
+c:\users\drago\documents\visual studio 2017\Projects\DebugginginCSharp\DebugginginCSharp\bin\Debug\DebugginginCSharp.pdb
+c:\users\drago\documents\visual studio 2017\Projects\DebugginginCSharp\DebugginginCSharp\obj\Debug\DebugginginCSharp.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\DebugginginCSharp\DebugginginCSharp\obj\Debug\DebugginginCSharp.exe
+c:\users\drago\documents\visual studio 2017\Projects\DebugginginCSharp\DebugginginCSharp\obj\Debug\DebugginginCSharp.pdb

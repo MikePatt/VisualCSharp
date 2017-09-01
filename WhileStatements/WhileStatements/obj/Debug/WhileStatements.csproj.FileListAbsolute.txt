@@ -1,0 +1,9 @@
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\bin\Debug\WhileStatements.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\bin\Debug\WhileStatements.exe
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\bin\Debug\WhileStatements.pdb
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.Form1.resources
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.exe
+c:\users\drago\documents\visual studio 2017\Projects\WhileStatements\WhileStatements\obj\Debug\WhileStatements.pdb

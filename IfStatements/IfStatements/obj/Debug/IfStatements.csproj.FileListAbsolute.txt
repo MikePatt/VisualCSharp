@@ -1,0 +1,9 @@
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\bin\Debug\IfStatements.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\bin\Debug\IfStatements.exe
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\bin\Debug\IfStatements.pdb
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\obj\Debug\IfStatements.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\obj\Debug\IfStatements.Form1.resources
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\obj\Debug\IfStatements.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\obj\Debug\IfStatements.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\obj\Debug\IfStatements.exe
+c:\users\drago\documents\visual studio 2017\Projects\IfStatements\IfStatements\obj\Debug\IfStatements.pdb

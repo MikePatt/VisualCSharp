@@ -1,0 +1,9 @@
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\bin\Debug\ConstructorCsharp.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\bin\Debug\ConstructorCsharp.exe
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\bin\Debug\ConstructorCsharp.pdb
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\obj\Debug\ConstructorCsharp.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\obj\Debug\ConstructorCsharp.Form1.resources
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\obj\Debug\ConstructorCsharp.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\obj\Debug\ConstructorCsharp.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\obj\Debug\ConstructorCsharp.exe
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp\ConstructorCsharp\obj\Debug\ConstructorCsharp.pdb

@@ -1,0 +1,6 @@
+c:\users\drago\documents\visual studio 2017\Projects\CSharpProperties\CSharpProperties\bin\Debug\CSharpProperties.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\CSharpProperties\CSharpProperties\bin\Debug\CSharpProperties.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpProperties\CSharpProperties\bin\Debug\CSharpProperties.pdb
+c:\users\drago\documents\visual studio 2017\Projects\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.csprojResolveAssemblyReference.cache
+c:\users\drago\documents\visual studio 2017\Projects\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpProperties\CSharpProperties\obj\Debug\CSharpProperties.pdb

@@ -1,0 +1,8 @@
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\bin\Release\CSharpWinApp2.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\bin\Release\CSharpWinApp2.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\bin\Release\CSharpWinApp2.pdb
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\obj\Release\CSharpWinApp2.Entry.resources
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\obj\Release\CSharpWinApp2.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\obj\Release\CSharpWinApp2.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\obj\Release\CSharpWinApp2.exe
+c:\users\drago\documents\visual studio 2017\Projects\CSharpWinApp2\CSharpWinApp2\obj\Release\CSharpWinApp2.pdb

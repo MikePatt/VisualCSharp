@@ -1,0 +1,9 @@
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\bin\Debug\ConstructorCsharp2.exe.config
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\bin\Debug\ConstructorCsharp2.exe
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\bin\Debug\ConstructorCsharp2.pdb
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\obj\Debug\ConstructorCsharp2.Entry.resources
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\obj\Debug\ConstructorCsharp2.Properties.Resources.resources
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\obj\Debug\ConstructorCsharp2.csproj.GenerateResource.Cache
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\obj\Debug\ConstructorCsharp2.exe
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\obj\Debug\ConstructorCsharp2.pdb
+c:\users\drago\documents\visual studio 2017\Projects\ConstructorCsharp2\ConstructorCsharp2\obj\Debug\ConstructorCsharp2.csprojResolveAssemblyReference.cache
